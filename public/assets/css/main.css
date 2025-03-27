@@ -19674,7 +19674,6 @@ Location:
   font-style: normal;
   font-weight: var(--ztc-weight-bold);
   line-height: 16px; /* 100% */
-  display: inline-block;
   margin-top: 14px;
 }
 .about4-section-area .about-images .content-box ul li a img {
