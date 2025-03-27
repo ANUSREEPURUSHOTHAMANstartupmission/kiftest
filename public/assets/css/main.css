@@ -19777,8 +19777,6 @@ Location:
   transform: rotateY(-180deg);
 }
 .about7-section-area .about-header-area .about-auhtor-box .icons {
-  height: 48px;
-  width: 48px;
   border-radius: 50%;
   transition: all 0.4s;
   display: inline-block;
@@ -23571,7 +23569,7 @@ Location:
 .memory2-section-area .memory-widget-slider .memory-widget-boxarea .content-area {
   text-align: center;
   background: var(--ztc-bg-bg-1);
-  padding: 42px 24px 24px;
+  padding: 24px;
   position: absolute;
   transition: all 0.4s;
   display: inline-block;
