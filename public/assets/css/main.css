@@ -7270,7 +7270,7 @@ Location:
   position: relative;
   z-index: 1;
   background: #FFF3F6;
-  padding: 250px 0 32px;
+  padding: 24px;
 }
 .footer7-sertion-area .footer-logo-area p {
   color: var(--ztc-text-text-3);
@@ -7371,7 +7371,6 @@ Location:
   font-style: normal;
   font-weight: var(--ztc-weight-medium);
   line-height: 16px;
-  display: inline-block;
   transition: all 0.4s;
   padding-top: 24px;
 }
@@ -16987,7 +16986,7 @@ Location:
 .contact4-section-area {
   position: relative;
   z-index: 1;
-  background: var(--ztc-bg-bg-8);
+  background: #fff3f6;
 }
 .contact4-section-area .contact4-boxarea {
   position: relative;
